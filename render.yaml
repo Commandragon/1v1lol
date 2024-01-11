@@ -1,0 +1,5 @@
+services:
+  - type: web
+    name: 1v1lol
+    env: static
+    staticPublishPath: .
